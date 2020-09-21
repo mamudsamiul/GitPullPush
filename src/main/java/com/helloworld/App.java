@@ -16,7 +16,7 @@ public class App
     	LOG.info(message+ " Will be printed on info");
     	LOG.warn(message+ " Will be printed on warn");
     	LOG.error(message+ " Will be printed on error");
-    	LOG.fatal(message+ " Will be printed on fatal");
+    	
     	LOG.info("Appending String: {}.",message);
     	
         
