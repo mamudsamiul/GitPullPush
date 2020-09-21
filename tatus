@@ -1,0 +1,12 @@
+[1mdiff --git a/logs/logfile.log b/logs/logfile.log[m
+[1mindex 11badbb..8554534 100644[m
+[1m--- a/logs/logfile.log[m
+[1m+++ b/logs/logfile.log[m
+[36m@@ -3,3 +3,7 @@[m [mWARN  | 2020-09-21 18:32:08 | [main] helloworld.App (App.java:17) - Hello World[m
+ ERROR | 2020-09-21 18:32:08 | [main] helloworld.App (App.java:18) - Hello World Will be printed on error[m
+ FATAL | 2020-09-21 18:32:08 | [main] helloworld.App (App.java:19) - Hello World Will be printed on fatal[m
+ INFO  | 2020-09-21 18:32:08 | [main] helloworld.App (App.java:20) - Appending String: Hello World.[m
+[32m+[m[32mINFO  | 2020-09-21 19:34:39 | [main] helloworld.App (App.java:16) - Hello World Will be printed on info[m
+[32m+[m[32mWARN  | 2020-09-21 19:34:39 | [main] helloworld.App (App.java:17) - Hello World Will be printed on warn[m
+[32m+[m[32mFATAL | 2020-09-21 19:34:39 | [main] helloworld.App (App.java:19) - Hello World Will be printed on fatal[m
+[32m+[m[32mINFO  | 2020-09-21 19:34:39 | [main] helloworld.App (App.java:20) - Appending String: Hello World.[m

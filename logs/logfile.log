@@ -3,3 +3,7 @@ WARN  | 2020-09-21 18:32:08 | [main] helloworld.App (App.java:17) - Hello World 
 ERROR | 2020-09-21 18:32:08 | [main] helloworld.App (App.java:18) - Hello World Will be printed on error
 FATAL | 2020-09-21 18:32:08 | [main] helloworld.App (App.java:19) - Hello World Will be printed on fatal
 INFO  | 2020-09-21 18:32:08 | [main] helloworld.App (App.java:20) - Appending String: Hello World.
+INFO  | 2020-09-21 19:34:39 | [main] helloworld.App (App.java:16) - Hello World Will be printed on info
+WARN  | 2020-09-21 19:34:39 | [main] helloworld.App (App.java:17) - Hello World Will be printed on warn
+FATAL | 2020-09-21 19:34:39 | [main] helloworld.App (App.java:19) - Hello World Will be printed on fatal
+INFO  | 2020-09-21 19:34:39 | [main] helloworld.App (App.java:20) - Appending String: Hello World.
