@@ -17,7 +17,7 @@ public class App
     	LOG.warn(message+ " Will be printed on warn");
     	LOG.error(message+ " Will be printed on error");
     	
-    	LOG.info("Appending String: {}.",message);
+    	
     	
         
     }
